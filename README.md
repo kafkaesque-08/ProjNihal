@@ -72,9 +72,8 @@
 
 ### 💻 How to Run
 
-###### 1\. Clone the repository: `git clone https://github.com/yourusername/iris-classification.git`
+###### 1\. Clone the repository: `git clone https://github.com/Kafkaesque-08/iris-dataset-with-knn-logistic-naive.git`
 
-###### 2\. Run the notebook/script: `python iris\_model.py`
 
 ##### 
 
@@ -89,4 +88,5 @@
 ###### \* Hyperparameter Optimization (Grid Search)
 
 ###### \* Advanced Model Evaluation (Multiclass Metrics)
+
 
