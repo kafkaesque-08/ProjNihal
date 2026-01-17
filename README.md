@@ -72,7 +72,7 @@
 
 ### 💻 How to Run
 
-###### 1\. Clone the repository: `git clone https://github.com/Kafkaesque-08/iris-dataset-with-knn-logistic-naive.git`
+###### 1\. Clone the repository: `git clone [https://github.com/Kafkaesque-08/iris-dataset-with-knn-logistic-naive.git`](https://github.com/kafkaesque-08/Projects.git)
 
 
 ##### 
@@ -88,5 +88,6 @@
 ###### \* Hyperparameter Optimization (Grid Search)
 
 ###### \* Advanced Model Evaluation (Multiclass Metrics)
+
 
 
